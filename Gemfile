@@ -15,8 +15,9 @@ gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.1.0'
 
+
 # image uploader 
-gem 'carrierwave'
+gem 'carrierwave', '~> 1.0'
 # Allows you to resize images
 gem 'mini_magick'
 # Allows you to work with images in production
